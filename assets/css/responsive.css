@@ -68,17 +68,6 @@
     display: none;
   }
 
-  .skills {
-    flex-direction: column;
-    align-items: start;
-  }
-
-  .skills-itens {
-    flex-direction: row;
-    gap: 2rem;
-    margin-left: 1rem;
-  }
-
   .post-actions {
     flex-direction: column;
     gap: 2rem;
